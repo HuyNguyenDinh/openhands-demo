@@ -1,3 +1,14 @@
+
+# Project Demo: Using Openhands - AI-Powered Coding Solution - with $1 Using Anthropic APIs
+
+## Command Prompt
+- Implement a microservice for saving user Firebase token or APNS token for push notifications in Python.
+- Try to implement it using a database with good performance in production.
+- Give me the Dockerfile
+- Can you give me the unittest and BDD?
+
+======================================================================================
+
 # Push Notification Token Service
 
 A microservice for managing push notification tokens (FCM and APNS) with PostgreSQL backend and comprehensive test coverage.
