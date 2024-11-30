@@ -1,5 +1,5 @@
 
-# Project Demo: Using Openhands - AI-Powered Coding Solution - with $1 Using Anthropic APIs
+# Project Demo: Using Openhands - AI-Powered Coding Solution - with $1,5 Using Anthropic APIs
 
 ## Command Prompt
 - Implement a microservice for saving user Firebase token or APNS token for push notifications in Python.
@@ -7,7 +7,7 @@
 - Give me the Dockerfile
 - Can you give me the unittest and BDD?
 
-======================================================================================
+=====================================================================================
 
 # Push Notification Token Service
 
